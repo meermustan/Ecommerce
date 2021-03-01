@@ -37,7 +37,7 @@ html{
 /* Navbar End */
 /* Home */
 #home{
-    height:100vh;
+    height:900px;
     display: flex;
     justify-content: center;
     align-items: center;
