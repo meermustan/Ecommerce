@@ -2,6 +2,7 @@ html{
     margin:0;
     padding:0;
     scroll-behavior:smooth;
+    height:100vh;
 }
 /* Navbar */
 #navbar {
@@ -36,9 +37,6 @@ html{
 }}
 /* Navbar End */
 /* Home */
-#home{
-    height: 100vw;
-}
 #home #main{
     margin-top: 60px;
 }
